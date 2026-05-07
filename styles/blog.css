@@ -1,0 +1,27 @@
+.header{
+    
+}
+
+
+H3{
+    background-color: blue;
+    font-size: xx-large; 
+    text-decoration: overline;
+}
+li{
+    background-color: blueviolet;
+    
+}
+.blog{
+    margin: 40px;
+    border: 20px solid coral;
+   box-shadow: 10px 10px 20px blueviolet;
+}
+.second{
+    /* display:none; */
+    /* visibility: hidden; */
+}
+
+.haigh{
+    border: 10px solid rgb(235, 6, 132);
+}
